@@ -36,10 +36,13 @@
   :block/updated-at 1667317722746}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667317235017,
-  :block/updated-at 1667318082554}
+  :block/updated-at 1667319097190}
  {:block/name "now",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
+ {:block/name "test of a new link to page",
+  :block/created-at 1667319097189,
+  :block/updated-at 1667319097189}
  {:block/name "todo",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
