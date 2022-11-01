@@ -1,2 +1,2 @@
-- {{cards [[to-latin]] }}
+- {{cards [[New page]]}}
 -
