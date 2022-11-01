@@ -40,6 +40,9 @@
  {:block/name "now",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
+ {:block/name "test of a new link to page",
+  :block/created-at 1667319195224,
+  :block/updated-at 1667319654047}
  {:block/name "todo",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
