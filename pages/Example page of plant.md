@@ -1,2 +1,2 @@
-- [[to-latin]] #card
-	-
+- ![small_id.jpg](../assets/small_id_1667337560177_0.jpg) [[to-latin]] #card
+	- [Cichorium intybus](https://www.inaturalist.org/observations/140773309)
