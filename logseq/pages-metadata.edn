@@ -18,7 +18,7 @@
   :block/updated-at 1667317722746}
  {:block/name "cichorium intybus",
   :block/created-at 1667338265084,
-  :block/updated-at 1667340344290}
+  :block/updated-at 1667341787643}
  {:block/name "contents",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
@@ -42,7 +42,7 @@
   :block/updated-at 1667317722746}
  {:block/name "new page",
   :block/created-at 1667339536085,
-  :block/updated-at 1667339536085}
+  :block/updated-at 1667341895209}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667317235017,
   :block/updated-at 1667337429564}
@@ -55,6 +55,12 @@
  {:block/name "plantfamily",
   :block/created-at 1667340320272,
   :block/updated-at 1667340320272}
+ {:block/name "some embedded page",
+  :block/created-at 1667341353590,
+  :block/updated-at 1667341477022}
+ {:block/name "somehiddenprop",
+  :block/created-at 1667341477022,
+  :block/updated-at 1667341477022}
  {:block/name "someprop",
   :block/created-at 1667340116047,
   :block/updated-at 1667340116047}
