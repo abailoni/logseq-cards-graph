@@ -45,6 +45,7 @@
  {:block/name "a",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
+<<<<<<< main
  {:block/name "alfred workflows",
   :block/created-at 1667334996221,
   :block/updated-at 1667334996221}
@@ -54,6 +55,11 @@
  {:block/name "ashtanga yoga",
   :block/created-at 1667334995623,
   :block/updated-at 1667334995623}
+=======
+ {:block/name "another example",
+  :block/created-at 1667360009033,
+  :block/updated-at 1667360009033}
+>>>>>>> origin/main
  {:block/name "b",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
@@ -78,6 +84,7 @@
  {:block/name "card",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
+<<<<<<< main
  {:block/name
   "certain jobs trigger more stress and comparison than others",
   :block/created-at 1667334989286,
@@ -98,6 +105,11 @@
  {:block/name "contacted flats marseille",
   :block/created-at 1667334998814,
   :block/updated-at 1667334998814}
+=======
+ {:block/name "cichorium intybus",
+  :block/created-at 1667338265084,
+  :block/updated-at 1667341787643}
+>>>>>>> origin/main
  {:block/name "contents",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
@@ -149,6 +161,7 @@
  {:block/name "favorites",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
+<<<<<<< main
  {:block/name
   "fighting cravings ask yourself “what did i get out of this?”",
   :block/created-at 1667334996109,
@@ -181,6 +194,11 @@
   "in western science, people often believe to be moved by great goals, but reality is different",
   :block/created-at 1667334991019,
   :block/updated-at 1667334991019}
+=======
+ {:block/name "flashcards lists",
+  :block/created-at 1667338422566,
+  :block/updated-at 1667339466948}
+>>>>>>> origin/main
  {:block/name "in-progress",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
@@ -202,6 +220,7 @@
  {:block/name "later",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
+<<<<<<< main
  {:block/name "learning photography and my struggles with cravings",
   :block/created-at 1667334997181,
   :block/updated-at 1667334997181}
@@ -347,6 +366,47 @@
  {:block/name "talk",
   :block/created-at 1667334992097,
   :block/updated-at 1667334992097}
+=======
+ {:block/name "link",
+  :block/created-at 1667393574580,
+  :block/updated-at 1667393574580}
+ {:block/name "new page",
+  :block/created-at 1667339536085,
+  :block/updated-at 1667341895209}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667317235017,
+  :block/updated-at 1667337429564}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667359871456,
+  :block/updated-at 1667397660985}
+ {:block/name "now",
+  :block/created-at 1667317722746,
+  :block/updated-at 1667317722746}
+ {:block/name "plant family",
+  :block/created-at 1667338265082,
+  :block/updated-at 1667338265082}
+ {:block/name "plant kingdom",
+  :block/created-at 1667359922713,
+  :block/updated-at 1667359922713}
+ {:block/name "plant kingdom/another example",
+  :block/created-at 1667359922714,
+  :block/updated-at 1667360148281}
+ {:block/name "plantfamily",
+  :block/created-at 1667340320272,
+  :block/updated-at 1667340320272}
+ {:block/name "selling-point",
+  :block/created-at 1667395952198,
+  :block/updated-at 1667395952198}
+ {:block/name "some embedded page",
+  :block/created-at 1667341353590,
+  :block/updated-at 1667341477022}
+ {:block/name "somehiddenprop",
+  :block/created-at 1667341477022,
+  :block/updated-at 1667341477022}
+ {:block/name "someprop",
+  :block/created-at 1667340116047,
+  :block/updated-at 1667340116047}
+>>>>>>> origin/main
  {:block/name "test of a new link to page",
   :block/created-at 1667319195224,
   :block/updated-at 1667319654047}
@@ -368,6 +428,7 @@
  {:block/name "todo",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
+<<<<<<< main
  {:block/name "todox-before to start- machine learning",
   :block/created-at 1667334990174,
   :block/updated-at 1667334990174}
@@ -395,12 +456,18 @@
  {:block/name "variational auto encoder",
   :block/created-at 1667334987684,
   :block/updated-at 1667334987684}
+=======
+ {:block/name "type",
+  :block/created-at 1667393984720,
+  :block/updated-at 1667393984720}
+>>>>>>> origin/main
  {:block/name "wait",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
  {:block/name "waiting",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
+<<<<<<< main
  {:block/name "why do i feel pressure in fedya's group?",
   :block/created-at 1667335009291,
   :block/updated-at 1667335009291}
@@ -413,3 +480,14 @@
  {:block/name "yoga collected",
   :block/created-at 1667334995620, 
   :block/updated-at 1667334995620}]
+=======
+ {:block/name "web-page-highlights",
+  :block/created-at 1667393980149,
+  :block/updated-at 1667393980149}
+ {:block/name "wiki",
+  :block/created-at 1667393040889,
+  :block/updated-at 1667393040889}
+ {:block/name "wiki/norway_spruce",
+  :block/created-at 1667393040891, 
+  :block/updated-at 1667393040891}]
+>>>>>>> origin/main
