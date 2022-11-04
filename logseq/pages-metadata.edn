@@ -1,80 +1,15 @@
-[{:block/name
-  "\"just\" joining another random company could be a bad choice",
-  :block/created-at 1667334989285,
-  :block/updated-at 1667334989285}
- {:block/name "201809220837 appartamento flat heidelberg",
-  :block/created-at 1667334988449,
-  :block/updated-at 1667334988449}
- {:block/name "201810021650 general objectives (multicut or stuff)",
-  :block/created-at 1667335010112,
-  :block/updated-at 1667335010112}
- {:block/name "201811301100 refx affogato",
-  :block/created-at 1667334995764,
-  :block/updated-at 1667334995764}
- {:block/name
-  "201902020841 long range paper - second try (alberto bailoni's conflicted copy)",
-  :block/created-at 1667334992778,
-  :block/updated-at 1667334992778}
- {:block/name "201902021936 seminar talk february 2019",
-  :block/created-at 1667334992099,
-  :block/updated-at 1667334992099}
- {:block/name "201904060947 new york",
-  :block/created-at 1667334991563,
-  :block/updated-at 1667334991563}
- {:block/name "201909241337 gasp at cvpr 2020",
-  :block/created-at 1667334992219,
-  :block/updated-at 1667334992219}
- {:block/name "201910031127 cinematography (refx)",
-  :block/created-at 1667335013544,
-  :block/updated-at 1667335013544}
- {:block/name "201910041107 trying out on the field",
-  :block/created-at 1667335013528,
-  :block/updated-at 1667335013528}
- {:block/name "201910190955 mirrorless gm 1 (refx)",
-  :block/created-at 1667334995255,
-  :block/updated-at 1667334995255}
- {:block/name "201910190956 camera collected",
-  :block/created-at 1667334995211,
-  :block/updated-at 1667334995211}
- {:block/name "202004061854 corona anti-bodies project",
-  :block/created-at 1667335004480,
-  :block/updated-at 1667335004480}
- {:block/name "202007291016 future of the project",
-  :block/created-at 1667335005916,
-  :block/updated-at 1667335005916}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
-<<<<<<< main
- {:block/name "alfred workflows",
-  :block/created-at 1667334996221,
-  :block/updated-at 1667334996221}
- {:block/name "apartments marseille",
-  :block/created-at 1667334998835,
-  :block/updated-at 1667334998835}
- {:block/name "ashtanga yoga",
-  :block/created-at 1667334995623,
-  :block/updated-at 1667334995623}
-=======
  {:block/name "another example",
-  :block/created-at 1667360009033,
-  :block/updated-at 1667360009033}
->>>>>>> origin/main
+  :block/created-at 1667361142419,
+  :block/updated-at 1667361142419}
  {:block/name "b",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
- {:block/name "botanical youtube channels france",
-  :block/created-at 1667335014753,
-  :block/updated-at 1667335014753}
- {:block/name "breaking down my main motivations",
-  :block/created-at 1667334991036,
-  :block/updated-at 1667334991036}
  {:block/name "c",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
- {:block/name "can meditation really coop with obsessed thoughts?",
-  :block/created-at 1667335003814,
-  :block/updated-at 1667335003814}
  {:block/name "canceled",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
@@ -84,292 +19,36 @@
  {:block/name "card",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
-<<<<<<< main
- {:block/name
-  "certain jobs trigger more stress and comparison than others",
-  :block/created-at 1667334989286,
-  :block/updated-at 1667334989286}
- {:block/name "cinematography",
-  :block/created-at 1667335013536,
-  :block/updated-at 1667335013536}
- {:block/name "cleaning space mac",
-  :block/created-at 1667334990394,
-  :block/updated-at 1667334990394}
- {:block/name "collected addictions and cravings",
-  :block/created-at 1667334996103,
-  :block/updated-at 1667334996103}
- {:block/name
-  "comparing myself to others makes me envious and stressed",
-  :block/created-at 1667334988700,
-  :block/updated-at 1667334988700}
- {:block/name "contacted flats marseille",
-  :block/created-at 1667334998814,
-  :block/updated-at 1667334998814}
-=======
  {:block/name "cichorium intybus",
-  :block/created-at 1667338265084,
-  :block/updated-at 1667341787643}
->>>>>>> origin/main
+  :block/created-at 1667338592945,
+  :block/updated-at 1667338592945}
  {:block/name "contents",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
- {:block/name "daniel and other friends",
-  :block/created-at 1667335021189,
-  :block/updated-at 1667335021189}
- {:block/name "deciding my next steps",
-  :block/created-at 1667334989291,
-  :block/updated-at 1667334989291}
- {:block/name "deep down, i am still seeking for approval",
-  :block/created-at 1667334989282,
-  :block/updated-at 1667334989282}
- {:block/name "desire",
-  :block/created-at 1667334988711,
-  :block/updated-at 1667334988711}
- {:block/name "do not impose what works for me on other people",
-  :block/created-at 1667334994021,
-  :block/updated-at 1667334994021}
- {:block/name "documentaries to watch",
-  :block/created-at 1667334992420,
-  :block/updated-at 1667334992420}
- {:block/name "documentation-",
-  :block/created-at 1667335008722,
-  :block/updated-at 1667335008722}
  {:block/name "doing",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
  {:block/name "done",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
- {:block/name "draftx",
-  :block/created-at 1667335008534,
-  :block/updated-at 1667335008534}
- {:block/name "draftx-fred suggestion",
-  :block/created-at 1667335000189,
-  :block/updated-at 1667335000189}
- {:block/name "draftx-katya",
-  :block/created-at 1667335005349,
-  :block/updated-at 1667335005349}
- {:block/name "embeddings",
-  :block/created-at 1667335005902,
-  :block/updated-at 1667335005902}
- {:block/name "end of ml and computer science career...?",
-  :block/created-at 1667335022533,
-  :block/updated-at 1667335022533}
- {:block/name "expanding my practice after one year",
-  :block/created-at 1667334995613,
-  :block/updated-at 1667334995613}
  {:block/name "favorites",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
-<<<<<<< main
- {:block/name
-  "fighting cravings ask yourself “what did i get out of this?”",
-  :block/created-at 1667334996109,
-  :block/updated-at 1667334996109}
- {:block/name "free monitors after moving",
-  :block/created-at 1667335007454,
-  :block/updated-at 1667335007454}
- {:block/name "friday for future strike",
-  :block/created-at 1667334994749,
-  :block/updated-at 1667334994749}
- {:block/name "funny enough, often i do not know why i feel nervous",
-  :block/created-at 1667335017995,
-  :block/updated-at 1667335017995}
- {:block/name "gastrosome - spacem processing all wells",
-  :block/created-at 1667335000098,
-  :block/updated-at 1667335000098}
- {:block/name "graph label propagation",
-  :block/created-at 1667334988994,
-  :block/updated-at 1667334988994}
- {:block/name "handling cravings (e.g. food)",
-  :block/created-at 1667334996096,
-  :block/updated-at 1667334996096}
- {:block/name "ideax-25th birthday",
-  :block/created-at 1667334996179,
-  :block/updated-at 1667334996179}
- {:block/name "ideax-crazy trip to norway",
-  :block/created-at 1667334995987,
-  :block/updated-at 1667334995987}
- {:block/name
-  "in western science, people often believe to be moved by great goals, but reality is different",
-  :block/created-at 1667334991019,
-  :block/updated-at 1667334991019}
-=======
  {:block/name "flashcards lists",
-  :block/created-at 1667338422566,
-  :block/updated-at 1667339466948}
->>>>>>> origin/main
+  :block/created-at 1667338592960,
+  :block/updated-at 1667338592960}
+ {:block/name "gtp 3",
+  :block/created-at 1667550941251,
+  :block/updated-at 1667550954844}
  {:block/name "in-progress",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
- {:block/name "indovina chi falco vigolo",
-  :block/created-at 1667334997515,
-  :block/updated-at 1667334997515}
- {:block/name "i’m feeling amazing why lose time on meditation?",
-  :block/created-at 1667335003839,
-  :block/updated-at 1667335003839}
- {:block/name "job after phd",
-  :block/created-at 1667335022523,
-  :block/updated-at 1667335022523}
- {:block/name "katya",
-  :block/created-at 1667334993971,
-  :block/updated-at 1667334993971}
- {:block/name "latent",
-  :block/created-at 1667335005896,
-  :block/updated-at 1667335005896}
  {:block/name "later",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
-<<<<<<< main
- {:block/name "learning photography and my struggles with cravings",
-  :block/created-at 1667334997181,
-  :block/updated-at 1667334997181}
- {:block/name "lightroom crack mac",
-  :block/created-at 1667334999105,
-  :block/updated-at 1667334999105}
- {:block/name "living alone",
-  :block/created-at 1667335012379,
-  :block/updated-at 1667335012379}
- {:block/name "lunch digestion observations",
-  :block/created-at 1667335016235,
-  :block/updated-at 1667335016235}
- {:block/name "marseille june 2022",
-  :block/created-at 1667335009038,
-  :block/updated-at 1667335009038}
- {:block/name "mastering a new skill require long-term commitment",
-  :block/created-at 1667334995617,
-  :block/updated-at 1667334995617}
- {:block/name
-  "meditation is about being nice to other people, not yourself",
-  :block/created-at 1667334988701,
-  :block/updated-at 1667334988701}
- {:block/name "meeting joel 25.03.21",
-  :block/created-at 1667334997959,
-  :block/updated-at 1667334997959}
- {:block/name "meeting theo - writing initial career plan 10.12.2021",
-  :block/created-at 1667335015151,
-  :block/updated-at 1667335015151}
- {:block/name "merlo - black bird",
-  :block/created-at 1667334992027,
-  :block/updated-at 1667334992027}
- {:block/name "nov 1st, 2022",
-  :block/created-at 1667317235017,
-  :block/updated-at 1667336818986}
- {:block/name "nov 3rd, 2022",
-  :block/created-at 1667449793120,
-  :block/updated-at 1667449793120}
- {:block/name "now",
-  :block/created-at 1667317722746,
-  :block/updated-at 1667317722746}
- {:block/name "nuova visita bettina 06.01.21",
-  :block/created-at 1667334995689,
-  :block/updated-at 1667334995689}
- {:block/name "outer spacem",
-  :block/created-at 1667335015868,
-  :block/updated-at 1667335015868}
- {:block/name "photography: true passion or goal-oriented noise?",
-  :block/created-at 1667334997133,
-  :block/updated-at 1667334997133}
- {:block/name "pixel",
-  :block/created-at 1667335005906,
-  :block/updated-at 1667335005906}
- {:block/name "plant biology and systematics heidelberg",
-  :block/created-at 1667334990111,
-  :block/updated-at 1667334990111}
- {:block/name "possible ways out of my addictions",
-  :block/created-at 1667334996099,
-  :block/updated-at 1667334996099}
- {:block/name "project update - meeting 01.04.2022",
-  :block/created-at 1667334987400,
-  :block/updated-at 1667334987400}
- {:block/name "pushing through is rarely a good attitude",
-  :block/created-at 1667334989293,
-  :block/updated-at 1667334989293}
- {:block/name "quicks-notes for thesis",
-  :block/created-at 1667334992172,
-  :block/updated-at 1667334992172}
- {:block/name "quicks-thorsten repository github",
-  :block/created-at 1667334990073,
-  :block/updated-at 1667334990073}
- {:block/name "rare annoyances with katya",
-  :block/created-at 1667334988709,
-  :block/updated-at 1667334988709}
- {:block/name "recognising minerals",
-  :block/created-at 1667335018685,
-  :block/updated-at 1667335018685}
- {:block/name "recognizing plants and flowers",
-  :block/created-at 1667334990109,
-  :block/updated-at 1667334990109}
- {:block/name "refx-beamer latex",
-  :block/created-at 1667334988964,
-  :block/updated-at 1667334988964}
- {:block/name "refx-birthday puzzle",
-  :block/created-at 1667334986940,
-  :block/updated-at 1667334986940}
- {:block/name "refx-interior point methods and convex optimization",
-  :block/created-at 1667335004281,
-  :block/updated-at 1667335004281}
- {:block/name "refx-not nice",
-  :block/created-at 1667334989127,
-  :block/updated-at 1667334989127}
- {:block/name "refx-photography",
-  :block/created-at 1667334994410,
-  :block/updated-at 1667334994410}
- {:block/name "refx-spectral clustering",
-  :block/created-at 1667334991176,
-  :block/updated-at 1667334991176}
- {:block/name "refx-toulouse",
-  :block/created-at 1667335008417,
-  :block/updated-at 1667335008417}
- {:block/name "regalo present katya aprile 2022",
-  :block/created-at 1667335002338,
-  :block/updated-at 1667335002338}
- {:block/name "repairing dishwasher flat heidelberg",
-  :block/created-at 1667334988451,
-  :block/updated-at 1667334988451}
- {:block/name "repeat exam correction",
-  :block/created-at 1667334989574,
-  :block/updated-at 1667334989574}
- {:block/name "revelation",
-  :block/created-at 1667335021156,
-  :block/updated-at 1667335021156}
- {:block/name "rumble - my values and things i like at work",
-  :block/created-at 1667334991018,
-  :block/updated-at 1667334991018}
- {:block/name "rumble 5: other friends",
-  :block/created-at 1667335021176,
-  :block/updated-at 1667335021176}
- {:block/name "session 21",
-  :block/created-at 1667335022496,
-  :block/updated-at 1667335022496}
- {:block/name "session 23",
-  :block/created-at 1667335017968,
-  :block/updated-at 1667335017968}
- {:block/name "slurm",
-  :block/created-at 1667335010954,
-  :block/updated-at 1667335010954}
- {:block/name "spacem datasets from users",
-  :block/created-at 1667334989364,
-  :block/updated-at 1667334989364}
- {:block/name "spacem links",
-  :block/created-at 1667335015861,
-  :block/updated-at 1667335015861}
- {:block/name "stress sources at work",
-  :block/created-at 1667334989295,
-  :block/updated-at 1667334989295}
- {:block/name "stuck in my own reality bubble",
-  :block/created-at 1667334996101,
-  :block/updated-at 1667334996101}
- {:block/name "sympathetic joy or mudita",
-  :block/created-at 1667334988715,
-  :block/updated-at 1667334988715}
- {:block/name "talk",
-  :block/created-at 1667334992097,
-  :block/updated-at 1667334992097}
-=======
  {:block/name "link",
-  :block/created-at 1667393574580,
-  :block/updated-at 1667393574580}
+  :block/created-at 1667459997098,
+  :block/updated-at 1667459997098}
  {:block/name "new page",
   :block/created-at 1667339536085,
   :block/updated-at 1667341895209}
@@ -379,6 +58,12 @@
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667359871456,
   :block/updated-at 1667397660985}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667459990411,
+  :block/updated-at 1667459990411}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667550906974,
+  :block/updated-at 1667550941326}
  {:block/name "now",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
@@ -386,108 +71,41 @@
   :block/created-at 1667338265082,
   :block/updated-at 1667338265082}
  {:block/name "plant kingdom",
-  :block/created-at 1667359922713,
-  :block/updated-at 1667359922713}
+  :block/created-at 1667361142420,
+  :block/updated-at 1667361142420}
  {:block/name "plant kingdom/another example",
-  :block/created-at 1667359922714,
-  :block/updated-at 1667360148281}
+  :block/created-at 1667361142419,
+  :block/updated-at 1667361142419}
  {:block/name "plantfamily",
-  :block/created-at 1667340320272,
-  :block/updated-at 1667340320272}
+  :block/created-at 1667342053346,
+  :block/updated-at 1667342053346}
  {:block/name "selling-point",
-  :block/created-at 1667395952198,
-  :block/updated-at 1667395952198}
+  :block/created-at 1667459997091,
+  :block/updated-at 1667459997091}
  {:block/name "some embedded page",
-  :block/created-at 1667341353590,
-  :block/updated-at 1667341477022}
+  :block/created-at 1667342053322,
+  :block/updated-at 1667342053322}
  {:block/name "somehiddenprop",
-  :block/created-at 1667341477022,
-  :block/updated-at 1667341477022}
+  :block/created-at 1667342053322,
+  :block/updated-at 1667342053322}
  {:block/name "someprop",
-  :block/created-at 1667340116047,
-  :block/updated-at 1667340116047}
->>>>>>> origin/main
+  :block/created-at 1667342053345,
+  :block/updated-at 1667342053345}
  {:block/name "test of a new link to page",
   :block/created-at 1667319195224,
   :block/updated-at 1667319654047}
- {:block/name "the power of meaning: the true route to happiness",
-  :block/created-at 1667334993987,
-  :block/updated-at 1667334993987}
- {:block/name "these notes are about me, not others",
-  :block/created-at 1667334993967,
-  :block/updated-at 1667334993967}
- {:block/name "thesis examiners",
-  :block/created-at 1667334990036,
-  :block/updated-at 1667334990036}
- {:block/name "tips for photography",
-  :block/created-at 1667334994418,
-  :block/updated-at 1667334994418}
- {:block/name "to",
-  :block/created-at 1667335001878,
-  :block/updated-at 1667335001878}
+ {:block/name "to-latin",
+  :block/created-at 1667338265081,
+  :block/updated-at 1667338265081}
  {:block/name "todo",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
-<<<<<<< main
- {:block/name "todox-before to start- machine learning",
-  :block/created-at 1667334990174,
-  :block/updated-at 1667334990174}
- {:block/name "todox-meet fred 18-01-18",
-  :block/created-at 1667334992137,
-  :block/updated-at 1667334992137}
- {:block/name "todox-plan for master student",
-  :block/created-at 1667334988052,
-  :block/updated-at 1667334988052}
- {:block/name "todox-second week",
-  :block/created-at 1667335001887,
-  :block/updated-at 1667335001887}
- {:block/name "todox-visiting student",
-  :block/created-at 1667334999628,
-  :block/updated-at 1667334999628}
- {:block/name "traincellpose update ht-spacem",
-  :block/created-at 1667334988788,
-  :block/updated-at 1667334988788}
- {:block/name "trip",
-  :block/created-at 1667334991552,
-  :block/updated-at 1667334991552}
- {:block/name "unwanted effects of meditation…?",
-  :block/created-at 1667335001565,
-  :block/updated-at 1667335001565}
- {:block/name "variational auto encoder",
-  :block/created-at 1667334987684,
-  :block/updated-at 1667334987684}
-=======
- {:block/name "type",
-  :block/created-at 1667393984720,
-  :block/updated-at 1667393984720}
->>>>>>> origin/main
  {:block/name "wait",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
  {:block/name "waiting",
   :block/created-at 1667317722746,
   :block/updated-at 1667317722746}
-<<<<<<< main
- {:block/name "why do i feel pressure in fedya's group?",
-  :block/created-at 1667335009291,
-  :block/updated-at 1667335009291}
- {:block/name "why do i want to get good at taking photos?",
-  :block/created-at 1667334997150,
-  :block/updated-at 1667334997150}
- {:block/name "work in regen agriculture",
-  :block/created-at 1667334990107,
-  :block/updated-at 1667334990107}
- {:block/name "yoga collected",
-  :block/created-at 1667334995620, 
-  :block/updated-at 1667334995620}]
-=======
  {:block/name "web-page-highlights",
-  :block/created-at 1667393980149,
-  :block/updated-at 1667393980149}
- {:block/name "wiki",
-  :block/created-at 1667393040889,
-  :block/updated-at 1667393040889}
- {:block/name "wiki/norway_spruce",
-  :block/created-at 1667393040891, 
-  :block/updated-at 1667393040891}]
->>>>>>> origin/main
+  :block/created-at 1667459997097, 
+  :block/updated-at 1667459997097}]
