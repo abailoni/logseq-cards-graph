@@ -13,9 +13,21 @@
 	- ### [[New page]] #card
 	  someprop:: test
 	  plantFamily:: {{cloze something}}
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2022-11-07T23:00:00.000Z
+	  card-last-reviewed:: 2022-11-07T20:37:32.689Z
+	  card-last-score:: 1
 		- Italiano: {{cloze Cicoria}}
 		- English: {{cloze whatever name}}
 		- Property:
 	- [[Plant Family]] #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-11-11T20:38:14.881Z
+	  card-last-reviewed:: 2022-11-07T20:38:14.882Z
+	  card-last-score:: 3
 		- Subfamily Cichorioideae (*Chicories, Dandelions, and Allies*)
 		- [[New page]]
