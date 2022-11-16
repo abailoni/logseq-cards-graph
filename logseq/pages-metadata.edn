@@ -155,7 +155,7 @@
   :block/updated-at 1667342053345}
  {:block/name "test an hierarchy",
   :block/created-at 1668625433306,
-  :block/updated-at 1668627618144}
+  :block/updated-at 1668633171668}
  {:block/name "test an hierarchy/olla olla",
   :block/created-at 1668625433305,
   :block/updated-at 1668627791517}
