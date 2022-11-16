@@ -57,7 +57,7 @@
   :block/updated-at 1667341895209}
  {:block/name "nov 16th, 2022",
   :block/created-at 1668619391436,
-  :block/updated-at 1668625436370}
+  :block/updated-at 1668627807054}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667317235017,
   :block/updated-at 1667337429564}
@@ -108,13 +108,16 @@
   :block/updated-at 1667342053345}
  {:block/name "test an hierarchy",
   :block/created-at 1668625433306,
-  :block/updated-at 1668626889991}
+  :block/updated-at 1668627618144}
  {:block/name "test an hierarchy/olla olla",
   :block/created-at 1668625433305,
-  :block/updated-at 1668625482344}
+  :block/updated-at 1668627791517}
  {:block/name "test of a new link to page",
   :block/created-at 1667319195224,
   :block/updated-at 1667319654047}
+ {:block/name "this is another alias test",
+  :block/created-at 1668627791516,
+  :block/updated-at 1668627791516}
  {:block/name "to-latin",
   :block/created-at 1667338265081,
   :block/updated-at 1667338265081}
