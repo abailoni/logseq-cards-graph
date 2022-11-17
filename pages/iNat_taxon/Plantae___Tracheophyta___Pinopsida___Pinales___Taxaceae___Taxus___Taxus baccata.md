@@ -5,4 +5,5 @@ fr:: {{cloze if commun}}
 es:: {{cloze tejo negro}}
 iNat-url:: https://www.inaturalist.org/taxa/47553
 wiki-url:: https://en.wikipedia.org/wiki/Taxus_baccata
-rank:: [[species]]alias:: [[Taxus baccata]]
+rank:: [[species]]
+alias:: [[Taxus baccata]]
