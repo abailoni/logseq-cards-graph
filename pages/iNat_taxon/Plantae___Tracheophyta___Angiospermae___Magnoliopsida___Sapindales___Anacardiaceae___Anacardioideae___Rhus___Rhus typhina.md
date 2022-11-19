@@ -7,3 +7,5 @@ iNat-url:: https://www.inaturalist.org/taxa/167829
 wiki-url:: http://en.wikipedia.org/wiki/Rhus_typhina
 rank:: [[species]]
 alias:: [[Rhus typhina]]
+
+-
