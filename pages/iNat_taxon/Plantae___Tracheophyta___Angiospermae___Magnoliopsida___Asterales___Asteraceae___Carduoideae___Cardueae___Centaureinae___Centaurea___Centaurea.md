@@ -1,6 +1,7 @@
 
 
+rank:: [[subgenus]]
 full-name:: Subgenus: Centaurea
 alias:: [[Centaurea]]
-rank:: [[subgenus]]iNat-url:: https://www.inaturalist.org/taxa/971683
+iNat-url:: https://www.inaturalist.org/taxa/971683
 wiki-url:: None
