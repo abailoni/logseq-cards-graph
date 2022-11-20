@@ -1,5 +1,6 @@
-full-name:: {{cloze Order: Sapindales (soapberries, cashews, mahoganies, and allies)}}
-iNat-url:: https://www.inaturalist.org/taxa/47729
-wiki-url:: http://en.wikipedia.org/wiki/Sapindales
+
+
+full-name:: Order: Sapindales (soapberries, cashews, mahoganies, and allies)
 alias:: [[Sapindales]]
-rank:: [[order]]
+rank:: [[order]]iNat-url:: https://www.inaturalist.org/taxa/47729
+wiki-url:: http://en.wikipedia.org/wiki/Sapindales

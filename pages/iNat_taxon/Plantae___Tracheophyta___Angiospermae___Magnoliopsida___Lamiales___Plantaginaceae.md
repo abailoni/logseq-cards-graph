@@ -1,5 +1,6 @@
-full-name:: {{cloze Family: Plantaginaceae (plantain family)}}
-iNat-url:: https://www.inaturalist.org/taxa/50638
-wiki-url:: http://en.wikipedia.org/wiki/Plantaginaceae
+
+
+full-name:: Family: Plantaginaceae (plantain family)
 alias:: [[Plantaginaceae]]
-rank:: [[family]]
+rank:: [[family]]iNat-url:: https://www.inaturalist.org/taxa/50638
+wiki-url:: http://en.wikipedia.org/wiki/Plantaginaceae

@@ -1,5 +1,6 @@
-full-name:: {{cloze Complex: Campanula rotundifolia (Harebell Complex)}}
-iNat-url:: https://www.inaturalist.org/taxa/984576
-wiki-url:: https://en.wikipedia.org/wiki/Campanula_rotundifolia
+
+
+full-name:: Complex: Campanula rotundifolia (Harebell Complex)
 alias:: [[Campanula rotundifolia]]
-rank:: [[complex]]
+rank:: [[complex]]iNat-url:: https://www.inaturalist.org/taxa/984576
+wiki-url:: https://en.wikipedia.org/wiki/Campanula_rotundifolia

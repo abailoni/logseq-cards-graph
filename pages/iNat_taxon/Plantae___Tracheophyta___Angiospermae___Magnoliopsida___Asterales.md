@@ -1,5 +1,6 @@
-full-name:: {{cloze Order: Asterales (sunflowers, bellflowers, fanflowers, and allies)}}
-iNat-url:: https://www.inaturalist.org/taxa/47605
-wiki-url:: https://en.wikipedia.org/wiki/Asterales
+
+
+full-name:: Order: Asterales (sunflowers, bellflowers, fanflowers, and allies)
 alias:: [[Asterales]]
-rank:: [[order]]
+rank:: [[order]]iNat-url:: https://www.inaturalist.org/taxa/47605
+wiki-url:: https://en.wikipedia.org/wiki/Asterales

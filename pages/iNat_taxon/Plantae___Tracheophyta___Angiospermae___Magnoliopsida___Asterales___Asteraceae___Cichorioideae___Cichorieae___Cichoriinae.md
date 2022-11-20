@@ -1,5 +1,6 @@
-full-name:: {{cloze Subtribe: Cichoriinae}}
-iNat-url:: https://www.inaturalist.org/taxa/632700
-wiki-url:: None
+
+
+full-name:: Subtribe: Cichoriinae
 alias:: [[Cichoriinae]]
-rank:: [[subtribe]]
+rank:: [[subtribe]]iNat-url:: https://www.inaturalist.org/taxa/632700
+wiki-url:: None

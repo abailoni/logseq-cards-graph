@@ -1,5 +1,6 @@
-full-name:: {{cloze Subfamily: Apioideae}}
-iNat-url:: https://www.inaturalist.org/taxa/790553
-wiki-url:: None
+
+
+full-name:: Subfamily: Apioideae
 alias:: [[Apioideae]]
-rank:: [[subfamily]]
+rank:: [[subfamily]]iNat-url:: https://www.inaturalist.org/taxa/790553
+wiki-url:: None

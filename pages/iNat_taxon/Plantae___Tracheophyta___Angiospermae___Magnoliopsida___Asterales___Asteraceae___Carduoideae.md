@@ -1,5 +1,6 @@
-full-name:: {{cloze Subfamily: Carduoideae (Thistles and Allies)}}
-iNat-url:: https://www.inaturalist.org/taxa/201654
-wiki-url:: http://en.wikipedia.org/wiki/Carduoideae
+
+
+full-name:: Subfamily: Carduoideae (Thistles and Allies)
 alias:: [[Carduoideae]]
-rank:: [[subfamily]]
+rank:: [[subfamily]]iNat-url:: https://www.inaturalist.org/taxa/201654
+wiki-url:: http://en.wikipedia.org/wiki/Carduoideae

@@ -1,5 +1,6 @@
-full-name:: {{cloze Tribe: Vinceae}}
-iNat-url:: https://www.inaturalist.org/taxa/632390
-wiki-url:: None
+
+
+full-name:: Tribe: Vinceae
 alias:: [[Vinceae]]
-rank:: [[tribe]]
+rank:: [[tribe]]iNat-url:: https://www.inaturalist.org/taxa/632390
+wiki-url:: None

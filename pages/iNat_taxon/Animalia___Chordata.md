@@ -1,5 +1,6 @@
-full-name:: {{cloze Phylum: Chordata (Chordates)}}
-iNat-url:: https://www.inaturalist.org/taxa/2
-wiki-url:: http://en.wikipedia.org/wiki/Chordate
+
+
+full-name:: Phylum: Chordata (Chordates)
 alias:: [[Chordata]]
-rank:: [[phylum]]
+rank:: [[phylum]]iNat-url:: https://www.inaturalist.org/taxa/2
+wiki-url:: http://en.wikipedia.org/wiki/Chordate

@@ -1,5 +1,6 @@
-full-name:: {{cloze Tribe: Antirrhineae}}
-iNat-url:: https://www.inaturalist.org/taxa/556743
-wiki-url:: http://en.wikipedia.org/wiki/Antirrhineae
+
+
+full-name:: Tribe: Antirrhineae
 alias:: [[Antirrhineae]]
-rank:: [[tribe]]
+rank:: [[tribe]]iNat-url:: https://www.inaturalist.org/taxa/556743
+wiki-url:: http://en.wikipedia.org/wiki/Antirrhineae

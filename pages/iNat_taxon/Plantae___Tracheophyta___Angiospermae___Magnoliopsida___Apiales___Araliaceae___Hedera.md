@@ -1,5 +1,6 @@
-full-name:: {{cloze Genus: Hedera (ivies)}}
-iNat-url:: https://www.inaturalist.org/taxa/55883
-wiki-url:: http://en.wikipedia.org/wiki/Hedera
+
+
+full-name:: Genus: Hedera (ivies)
 alias:: [[Hedera]]
-rank:: [[genus]]
+rank:: [[genus]]iNat-url:: https://www.inaturalist.org/taxa/55883
+wiki-url:: http://en.wikipedia.org/wiki/Hedera

@@ -1,5 +1,6 @@
-full-name:: {{cloze Tribe: Careae}}
-iNat-url:: https://www.inaturalist.org/taxa/790559
-wiki-url:: None
+
+
+full-name:: Tribe: Careae
 alias:: [[Careae]]
-rank:: [[tribe]]
+rank:: [[tribe]]iNat-url:: https://www.inaturalist.org/taxa/790559
+wiki-url:: None

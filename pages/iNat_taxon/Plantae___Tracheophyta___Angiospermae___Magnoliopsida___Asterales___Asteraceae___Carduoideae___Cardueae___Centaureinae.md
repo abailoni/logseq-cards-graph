@@ -1,5 +1,6 @@
-full-name:: {{cloze Subtribe: Centaureinae}}
-iNat-url:: https://www.inaturalist.org/taxa/632887
-wiki-url:: None
+
+
+full-name:: Subtribe: Centaureinae
 alias:: [[Centaureinae]]
-rank:: [[subtribe]]
+rank:: [[subtribe]]iNat-url:: https://www.inaturalist.org/taxa/632887
+wiki-url:: None

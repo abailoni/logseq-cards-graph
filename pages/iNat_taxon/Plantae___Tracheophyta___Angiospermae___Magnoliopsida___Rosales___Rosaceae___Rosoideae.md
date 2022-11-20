@@ -1,5 +1,6 @@
-full-name:: {{cloze Subfamily: Rosoideae (brambles, roses, strawberries, and allies)}}
-iNat-url:: https://www.inaturalist.org/taxa/415343
-wiki-url:: http://en.wikipedia.org/wiki/Rosoideae
+
+
+full-name:: Subfamily: Rosoideae (brambles, roses, strawberries, and allies)
 alias:: [[Rosoideae]]
-rank:: [[subfamily]]
+rank:: [[subfamily]]iNat-url:: https://www.inaturalist.org/taxa/415343
+wiki-url:: http://en.wikipedia.org/wiki/Rosoideae

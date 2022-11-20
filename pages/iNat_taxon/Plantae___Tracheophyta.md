@@ -1,5 +1,6 @@
-full-name:: {{cloze Phylum: Tracheophyta (vascular plants)}}
-iNat-url:: https://www.inaturalist.org/taxa/211194
-wiki-url:: https://en.wikipedia.org/wiki/Vascular_plant
+
+
+full-name:: Phylum: Tracheophyta (vascular plants)
 alias:: [[Tracheophyta]]
-rank:: [[phylum]]
+rank:: [[phylum]]iNat-url:: https://www.inaturalist.org/taxa/211194
+wiki-url:: https://en.wikipedia.org/wiki/Vascular_plant

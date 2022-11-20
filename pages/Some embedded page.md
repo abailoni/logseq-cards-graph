@@ -1,1 +1,0 @@
-someHiddenprop:: {{cloze ciao}}

@@ -1,5 +1,6 @@
-full-name:: {{cloze Genus: Pseudofumaria}}
-iNat-url:: https://www.inaturalist.org/taxa/130805
-wiki-url:: https://en.wikipedia.org/wiki/Pseudofumaria
+
+
+full-name:: Genus: Pseudofumaria
 alias:: [[Pseudofumaria]]
-rank:: [[genus]]
+rank:: [[genus]]iNat-url:: https://www.inaturalist.org/taxa/130805
+wiki-url:: https://en.wikipedia.org/wiki/Pseudofumaria

@@ -1,5 +1,6 @@
-full-name:: {{cloze Family: Fringillidae (Finches, Euphonias, and Allies)}}
-iNat-url:: https://www.inaturalist.org/taxa/9079
-wiki-url:: http://en.wikipedia.org/wiki/Finch
+
+
+full-name:: Family: Fringillidae (Finches, Euphonias, and Allies)
 alias:: [[Fringillidae]]
-rank:: [[family]]
+rank:: [[family]]iNat-url:: https://www.inaturalist.org/taxa/9079
+wiki-url:: http://en.wikipedia.org/wiki/Finch

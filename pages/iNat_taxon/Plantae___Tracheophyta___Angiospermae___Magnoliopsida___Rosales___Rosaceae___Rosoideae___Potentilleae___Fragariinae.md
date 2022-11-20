@@ -1,5 +1,6 @@
-full-name:: {{cloze Subtribe: Fragariinae (strawberry subtribe)}}
-iNat-url:: https://www.inaturalist.org/taxa/975959
-wiki-url:: None
+
+
+full-name:: Subtribe: Fragariinae (strawberry subtribe)
 alias:: [[Fragariinae]]
-rank:: [[subtribe]]
+rank:: [[subtribe]]iNat-url:: https://www.inaturalist.org/taxa/975959
+wiki-url:: None

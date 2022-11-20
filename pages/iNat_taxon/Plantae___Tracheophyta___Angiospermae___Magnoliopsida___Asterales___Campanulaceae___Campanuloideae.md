@@ -1,5 +1,6 @@
-full-name:: {{cloze Subfamily: Campanuloideae (bellflower subfamily)}}
-iNat-url:: https://www.inaturalist.org/taxa/850994
-wiki-url:: None
+
+
+full-name:: Subfamily: Campanuloideae (bellflower subfamily)
 alias:: [[Campanuloideae]]
-rank:: [[subfamily]]
+rank:: [[subfamily]]iNat-url:: https://www.inaturalist.org/taxa/850994
+wiki-url:: None

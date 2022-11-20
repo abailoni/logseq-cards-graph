@@ -1,5 +1,6 @@
-full-name:: {{cloze Genus: Erithacus}}
-iNat-url:: https://www.inaturalist.org/taxa/13093
-wiki-url:: http://en.wikipedia.org/wiki/European_robin
+
+
+full-name:: Genus: Erithacus
 alias:: [[Erithacus]]
-rank:: [[genus]]
+rank:: [[genus]]iNat-url:: https://www.inaturalist.org/taxa/13093
+wiki-url:: http://en.wikipedia.org/wiki/European_robin

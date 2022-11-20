@@ -1,5 +1,6 @@
-full-name:: {{cloze Subgenus: Behenantha}}
-iNat-url:: https://www.inaturalist.org/taxa/1395950
-wiki-url:: None
+
+
+full-name:: Subgenus: Behenantha
 alias:: [[Behenantha]]
-rank:: [[subgenus]]
+rank:: [[subgenus]]iNat-url:: https://www.inaturalist.org/taxa/1395950
+wiki-url:: None

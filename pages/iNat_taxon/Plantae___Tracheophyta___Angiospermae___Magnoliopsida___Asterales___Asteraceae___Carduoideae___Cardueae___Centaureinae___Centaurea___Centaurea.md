@@ -1,5 +1,6 @@
-full-name:: {{cloze Subgenus: Centaurea}}
-iNat-url:: https://www.inaturalist.org/taxa/971683
-wiki-url:: None
+
+
+full-name:: Subgenus: Centaurea
 alias:: [[Centaurea]]
-rank:: [[subgenus]]
+rank:: [[subgenus]]iNat-url:: https://www.inaturalist.org/taxa/971683
+wiki-url:: None

@@ -1,5 +1,6 @@
-full-name:: {{cloze Genus: Geranium (geraniums and cranesbills)}}
-iNat-url:: https://www.inaturalist.org/taxa/47701
-wiki-url:: http://en.wikipedia.org/wiki/Geranium
+
+
+full-name:: Genus: Geranium (geraniums and cranesbills)
 alias:: [[Geranium]]
-rank:: [[genus]]
+rank:: [[genus]]iNat-url:: https://www.inaturalist.org/taxa/47701
+wiki-url:: http://en.wikipedia.org/wiki/Geranium

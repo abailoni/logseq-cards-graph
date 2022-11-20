@@ -1,5 +1,6 @@
-full-name:: {{cloze Genus: Cornus (dogwoods)}}
-iNat-url:: https://www.inaturalist.org/taxa/47193
-wiki-url:: http://en.wikipedia.org/wiki/Cornus
+
+
+full-name:: Genus: Cornus (dogwoods)
 alias:: [[Cornus]]
-rank:: [[genus]]
+rank:: [[genus]]iNat-url:: https://www.inaturalist.org/taxa/47193
+wiki-url:: http://en.wikipedia.org/wiki/Cornus

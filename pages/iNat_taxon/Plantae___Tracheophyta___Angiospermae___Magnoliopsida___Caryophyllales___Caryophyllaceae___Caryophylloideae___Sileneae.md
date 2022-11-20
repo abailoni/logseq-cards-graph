@@ -1,5 +1,6 @@
-full-name:: {{cloze Tribe: Sileneae}}
-iNat-url:: https://www.inaturalist.org/taxa/791475
-wiki-url:: None
+
+
+full-name:: Tribe: Sileneae
 alias:: [[Sileneae]]
-rank:: [[tribe]]
+rank:: [[tribe]]iNat-url:: https://www.inaturalist.org/taxa/791475
+wiki-url:: None
