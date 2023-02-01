@@ -1,0 +1,5 @@
+- ## Points to sell
+	- Design an interface for tracking stuff in general but that should be super fast
+		- Let people create their categories of things, super long list of items like mine
+		- And then use basic patterns to suggest categories/items based on the time of the day
+-
