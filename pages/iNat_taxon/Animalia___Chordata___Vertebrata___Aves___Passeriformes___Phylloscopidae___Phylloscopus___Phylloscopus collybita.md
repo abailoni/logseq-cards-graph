@@ -8,5 +8,6 @@ es:: Mosquitero común
 iNat-url:: https://www.inaturalist.org/taxa/117016
 wiki-url:: http://en.wikipedia.org/wiki/Common_chiffchaff
 
-- Alternating chiff chaff
-	-
+- Common sounds
+	- Alternating chiff chaff
+	- Hui Hui
