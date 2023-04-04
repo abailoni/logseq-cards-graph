@@ -298,4 +298,5 @@
  :file/name-format :triple-lowbar
  :mobile/toolbar-stats {:bold {:counts 5}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 1}, :command {:counts 10}, :calendar {:counts 0}, :paint {:counts 8}, :list {:counts 0}, :link {:counts 1}, :strikethrough {:counts 0}, :code {:counts 4}, :camera {:counts 0}, :rotate {:counts 1}, :tag {:counts 1}, :brackets {:counts 12}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 1}}
  :graph/settings {:orphan-pages? false}
+ :feature/enable-whiteboards? true
  }
