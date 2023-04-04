@@ -1,3 +1,4 @@
-- ok let's test this
-- Banana
-- cheery
+- Example list of a shopping list:
+	- Banana
+	- Cheery
+- What about a new box: sans alcol
