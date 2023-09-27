@@ -1,0 +1,21 @@
+- For many people it seems so simple: they get a job, and that's it (at least for a while)
+	- Some goal/purpose feels like is needed, after my PhD... (it was already there before the mess with katya
+	- Before it was just more hidden, but it was already there earlier this year...
+	- Maybe it's a silly question... But I read books/resources, I even joined online community of HSP
+		- Also meeting people in Berlin
+		- Finding a goal or something I get involved into (instead of having a need perspective)
+- Needed more stimuli:
+	- Berlin, Munich
+	- Grenoble: lots of organization, a bit of stress
+	- Great, lots of things to do. New environment
+- For many people it seems so simple: they get a job, and that's it (at least for a while)
+	- Some goal/purpose feels like is needed, after my PhD... (it was already there before the mess with katya
+	- Before it was just more hidden, but it was already there earlier this year...
+	- Maybe it's a silly question... But I read books/resources, I even joined online community of HSP
+		- Also meeting people in Berlin
+		- Finding a goal or something I get involved into (instead of having a need perspective)
+- I seem to function 10 times better with less tech stimuli... (see meditation retreat)
+	- I am starting to really think maybe I should widen my horizon in terms of possible activities...
+	- Current job, 3-4 hours and I am over-stimulated...
+- meditation bliss:
+	- Bloating and stress won't go away :)
