@@ -1,3 +1,5 @@
+tags:: [[therapy]]
+
 - For many people it seems so simple: they get a job, and that's it (at least for a while)
 	- Some goal/purpose feels like is needed, after my PhD... (it was already there before the mess with katya
 	- Before it was just more hidden, but it was already there earlier this year...
@@ -19,3 +21,4 @@
 	- Current job, 3-4 hours and I am over-stimulated...
 - meditation bliss:
 	- Bloating and stress won't go away :)
+	- Ok, this is really getting better
