@@ -1,4 +1,4 @@
 - What about a new box: sans alcol
-- Example list of a shopping list:
-	- Banana
-	- Cheery
+	- Example list of a shopping list:
+		- Banana
+		- Cheery
