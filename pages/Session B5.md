@@ -1,7 +1,7 @@
 tags:: [[therapy]]
 
 - For many people it seems so simple: they get a job, and that's it (at least for a while)
-	- Some goal/purpose feels like is needed, after my PhD... (it was already there before the mess with katya
+	- Some goal/purpose feels like is needed, after my PhD... (it was already there before the mess with Katya
 	- Before it was just more hidden, but it was already there earlier this year...
 	- Maybe it's a silly question... But I read books/resources, I even joined online community of HSP
 		- Also meeting people in Berlin
